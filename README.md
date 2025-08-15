@@ -12,7 +12,9 @@ This project simulates how a **Hadoop-based MapReduce job** can be used to analy
 While Hadoop’s full functionality isn't implemented in this project due to environment limitations, the **MapReduce** simulation allows for scalable data processing in a distributed system, making it possible to run the computations on large datasets.
 
 ### Team Members:
-- **Aakashsingh Rajput** 
+- **Aakashsingh Rajput**
+- **Joy Jain**
+- **Manan**
 - **Md. Faraaz Ahmed** 
 
 ---
